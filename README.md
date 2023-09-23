@@ -21,6 +21,3 @@ Welcome to the NEAR Developer Community DAO! We are a decentralized community-dr
 
 Join us in shaping the future of NEAR blockchain development! Feel free to explore our repositories, contribute, and get involved in our thriving developer community.
 
----
-
-This README provides a brief overview of your DAO's mission and activities while including links to your social media channels for easy community engagement. You can customize it further as needed.
